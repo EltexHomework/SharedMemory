@@ -35,9 +35,12 @@ make clean
 ## Демонстрация работы программ
 ### Задание №1
 - System V (make sysv)
+![sysv](https://github.com/user-attachments/assets/b4d6669f-5d17-4c6f-9e67-954a95ab3aad)
 
 - POSIX (make posix)
+![posix](https://github.com/user-attachments/assets/e0eb91c4-bd3f-4d78-8d98-c461f1fe2e65)
 
 ### Задание №2
+![task2](https://github.com/user-attachments/assets/f1007162-c451-4b2d-8035-20180139c6aa)
 
 
